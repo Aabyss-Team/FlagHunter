@@ -2,6 +2,7 @@
 > **一款专为 CTF 选手打造的智能 Flag 实时监控与搜索工具**  
 由 **Hx0 战队** 开发
 >
+<img width="960" height="536" alt="image" src="https://github.com/user-attachments/assets/97f7468a-21d6-44bf-a871-c1dddd1e8e6e" />
 
 ---
 
